@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
-  color: #354b59;
+  background: black;
+  color: green;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -406,14 +406,14 @@ hr {
     color: #354b59;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/udacity/2.png');
-    background-size: 100%;
-    color: rgba(0,0,0,0);
+    background-size: 30%;
+    color: rgba(3,1,2,1);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/udacity/4.png');
-    background-size: 100%;
-    color: rgba(0,0,0,0);
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background-size: 60%;
+    color: rgba(6,5,4,3);
+    box-shadow: 0 0 400px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: url('../tile-sets/udacity/8.png');
     background-size: 100%;
